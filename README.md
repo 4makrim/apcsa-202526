@@ -1,4 +1,4 @@
-# APCSA-2025-26
+# APCSA-2025-26 For Students
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
